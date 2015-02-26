@@ -43,3 +43,7 @@ join
 reboot
 
 try ping 192.168.0.250 to see if connected
+
+Hardware:
+https://www.coolcomponents.co.uk/wifi-module-rn-xv-xbee-footprint.html?gclid=COqR5Znh_8MCFabHtAodZScAzg   £33.42
+
